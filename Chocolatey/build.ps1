@@ -1,0 +1,1 @@
+docker image build --tag jasonmcboyd/chocolatey:windowsservercore .
