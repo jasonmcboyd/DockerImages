@@ -1,1 +1,1 @@
-docker image build --tag jasonmcboyd/chocolatey:windowsservercore .
+docker image build --tag jasonmcboyd/chocolatey:v0.10.11-windowsservercore-10.0.14393.2551 $PSScriptRoot
